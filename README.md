@@ -1,7 +1,7 @@
 ### Hi there, I'm Dania Sarmiento 👋
 
 
-I am a **Systems Engineering student** at **Universidad del Magdalena**, currently in my 8th semester, and a **Junior Full Stack Developer**. I am passionate about technology, software development, and machine learning, constantly learning and growing in these areas.  
+I am a **Systems Engineering student** at **Universidad del Magdalena**, currently in my 9th semester, and a **Junior Full Stack Developer**. I am passionate about technology, software development, and machine learning, constantly learning and growing in these areas.  
 
 ### **My Research and Professional Interests**  
 - Web Development (Full Stack)  
