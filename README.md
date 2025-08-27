@@ -1,40 +1,22 @@
-### Hi there, I'm Dania Sarmiento 👋
+# Welcome to My GitHub Profile!
 
+Hello there! I'm a passionate developer excited about creating impactful solutions. This profile is a window into my coding journey, creative projects, and endless experimentation.
 
-I am a **Systems Engineering student** at **Universidad del Magdalena**, currently in my 9th semester, and a **Junior Full Stack Developer**. I am passionate about technology, software development, and machine learning, constantly learning and growing in these areas.  
+## About Me
 
-### **My Research and Professional Interests**  
-- Web Development (Full Stack)  
-- Machine Learning  
-- Data Science  
-- Software Engineering Practices  
+- **Profession**: [Your Profession Here]
+- **Top Skills**: [Your Skills e.g., JavaScript, Python, etc.]
+- **Favorite Projects**: [Highlight your best projects and contributions here]
+- **Social Links**: [Your GitHub, LinkedIn, Twitter, personal website, etc.]
 
-### **I am open to**  
-- Collaboration on development projects (front-end, back-end, or full stack).   
-- Contributing to open-source projects.  
-- Networking with professionals and researchers in related fields.  
+## What I'm Working On
 
+I'm currently diving into diverse projects that range from innovative web development to powerful data-driven applications. My focus is always on solving real-world problems with practical and efficient solutions.
 
-### Skills:
+## Get in Touch
 
-#### Languages
+Feel free to reach out if you want to collaborate or if you simply want to chat about technology and innovation.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-yellow?style=for-the-badge&logo=typescript)
+---
 
-
-#### Frameworks
-![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular)
-![Spring](https://img.shields.io/badge/Spring-white?style=for-the-badge&logo=spring)
-
-
-
-#### Database
-
-![SQL Server](https://img.shields.io/badge/SQL%20Server-white?style=for-the-badge)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-
-
-
-
+I'm always updating my profile with new projects and insights. Stay tuned!
