@@ -5,7 +5,6 @@
 [![Open to Work](https://img.shields.io/badge/🟢_Open_to_Work-Available-2ea44f?style=for-the-badge)](mailto:tu@email.com)
  
 </div>
----
  
 ## About me
  
@@ -52,7 +51,7 @@ Systems Engineer from **Universidad del Magdalena**. I work as a **Data Analyst*
  
 ---
  
-## 🤝 Open to
+##  Open to
  
 - 💼 **Job opportunities** — Data Analyst, Data Engineer, or Full Stack Developer roles
 - 🔗 **Collaborations** — front-end, back-end, or full stack projects
@@ -61,7 +60,6 @@ Systems Engineer from **Universidad del Magdalena**. I work as a **Data Analyst*
 ---
  
 <div align="center">
-*Let's build something great together.*&nbsp; 📬 Reach out anytime!
  
 </div>
  
