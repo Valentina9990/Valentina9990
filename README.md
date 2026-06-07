@@ -1,4 +1,4 @@
-# Hi, I'm Dania Sarmiento 👋
+# Hi, I'm Dania Sarmiento 
  
 **Systems Engineer · Data Analyst · Full Stack Developer**
  
